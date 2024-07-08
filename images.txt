@@ -5,12 +5,12 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #--------------------
-#6053537/portainer-ce:latest
-#jeessy/ddns-go:latest
-#nyanmisaka/jellyfin:latest
-#lovechen/embyserver:latest
-#bytemark/webdav:latest
-#! ugeek/webdav
+6053537/portainer-ce:latest
+jeessy/ddns-go:latest
+nyanmisaka/jellyfin:latest
+lovechen/embyserver:latest
 p3terx/aria2-pro:latest
 linuxserver/qbittorrent:latest
 superng6/qbittorrentee:latest
+bytemark/webdav:latest
+ugeek/webdav:amd64
