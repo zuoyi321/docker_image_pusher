@@ -4,7 +4,7 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-#--------------------
+#---自用镜像---
 6053537/portainer-ce:latest
 jeessy/ddns-go:latest
 nyanmisaka/jellyfin:latest
@@ -12,5 +12,7 @@ lovechen/embyserver:latest
 p3terx/aria2-pro:latest
 linuxserver/qbittorrent:latest
 superng6/qbittorrentee:latest
+#中国优化版
+superng6/qbittorrent:latest
 bytemark/webdav:latest
 ugeek/webdav:amd64
