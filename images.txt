@@ -1,15 +1,16 @@
-nginx
+#nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
-jeessy/ddns-go:latest
-nyanmisaka/jellyfin:latest
-lovechen/embyserver:latest
-bytemark/webdav:latest
+#--platform=linux/arm64 xiaoyaliu/alist
+#--------------------
+6053537/portainer-ce:latest
+#jeessy/ddns-go:latest
+#nyanmisaka/jellyfin:latest
+#lovechen/embyserver:latest
+#bytemark/webdav:latest
 ugeek/webdav
 p3terx/aria2-pro:latest
 linuxserver/qbittorrent:latest
 superng6/qbittorrentee:latest
-6053537/portainer-ce:latest
