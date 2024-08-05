@@ -16,3 +16,4 @@ superng6/qbittorrentee:latest
 superng6/qbittorrent:latest
 bytemark/webdav:latest
 ugeek/webdav:amd64
+80x86/filebrowser
